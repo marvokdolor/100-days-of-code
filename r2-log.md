@@ -4,7 +4,7 @@ The log of my second consecutive #100DaysOfCode challenge. Started on November 2
 
 ## Log
 
-_The following entries all refer to [fCC Intermediate Algorithm Scripting Challenges](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting).
+_The following entries all refer to [fCC Intermediate Algorithm Scripting Challenges](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting)_.
 
 ### R2D1
 - Completed Search and Replace
