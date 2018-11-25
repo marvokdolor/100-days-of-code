@@ -24,6 +24,8 @@ _The following entries all refer to [fCC Intermediate Algorithm Scripting Challe
 - Forked this very 100-days-of-code [repo](https://github.com/kallaway/100-days-of-code) to start tracking my progress and publicly capturing my coding journey, beyond personal blog entries.
 
 ### R2D5
+- Completed Sorted Union
+- Started Convert HTML entities; experimented with a RegEx based solution and worked out pseudocode
 
 ### R2D6
 
