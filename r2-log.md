@@ -28,6 +28,8 @@ _The following entries all refer to [fCC Intermediate Algorithm Scripting Challe
 - Started Convert HTML entities; experimented with a RegEx based solution and worked out pseudocode
 
 ### R2D6
+- Completed Convert HTML entities
+- Started Sum All Odd Fibonacci Numbers
 
 ### R2D7
 
