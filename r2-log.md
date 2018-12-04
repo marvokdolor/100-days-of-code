@@ -46,9 +46,10 @@ _The following entries all refer to [fCC Intermediate Algorithm Scripting Challe
 
 ### R2D11 - 12/02/18
 - Completed Smallest Common Multiple
-- Started Drop it
+- Started and completed Drop it, Steamroller, Binary Agents, Everything Be True
 
 ### R2D12 - 12/03/2018
+- Started Arguments Optional
 
 ### R2D13 - 12/04/2018
 
