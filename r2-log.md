@@ -61,6 +61,7 @@ _The following entries all refer to [fCC JavaScript Algorithms and Data Structur
 ### R2D14 - 12/05/18
 - Started and completed Palindrome Checker
 - Started and completed Roman Numeral Converter
+- Started and completed Caesar's Cipher and modified it to allow the user to provide a rotation number
 
 ### R2D15 - 12/06/18
 
