@@ -39,7 +39,7 @@ _The following entries all refer to [fCC Intermediate Algorithm Scripting Challe
 - Started Smallest Common Multiple
 
 ### R2D9 - 11/30/18
-- Continued Smallest Common Multiple
+- Took a break from Smallest Common Multiple to work on [Bootstrap Challenges](https://learn.freecodecamp.org/front-end-libraries/bootstrap)
 
 ### R2D10 - 12/01/18
 - Continued Smallest Common Multiple
@@ -52,7 +52,7 @@ _The following entries all refer to [fCC Intermediate Algorithm Scripting Challe
 - Started Arguments Optional
 
 ### R2D13 - 12/04/2018
-- Abandoned Arguments Optional for now
+- Paused Arguments Optional
 - Completed Bootstrap Challenges
 - Started and completed Make A Person | Map the Debris
 
