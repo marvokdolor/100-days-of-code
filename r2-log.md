@@ -57,27 +57,40 @@ _The following entries all refer to [freeCodeCamp's Intermediate Algorithm Scrip
 - Started and completed Make A Person | Map the Debris
 
 _The following entries all refer to [fCC JavaScript Algorithms and Data Structures Projects](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects), unless otherwise noted_.
+
 ### R2D14 - 12/05/18
+- Started and completed Palindrome Checker
+- Started and completed Roman Numeral Converter
 
 ### R2D15 - 12/06/18
 
+
 ### R2D16 - 12/07/18
+
 
 ### R2D17 - 12/08/18
 
+
 ### R2D18 - 12/09/18
+
 
 ### R2D19 - 12/10/18
 
+
 ### R2D20 - 12/11/18
+
 
 ### R2D21 - 12/12/18
 
+
 ### R2D22 - 12/13/18
+
 
 ### R2D23 - 12/14/18
 
+
 ### R2D24 - 12/15/18
+
 
 ### R2D25 - 12/16/18
 
