@@ -4,7 +4,7 @@ The log of my second consecutive #100DaysOfCode challenge. Started on November 2
 
 ## Log
 
-_The following entries all refer to [fCC Intermediate Algorithm Scripting Challenges](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting)_.
+_The following entries all refer to [freeCodeCamp's Intermediate Algorithm Scripting Challenges](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting), unless otherwise noted_.
 
 ### R2D1 - 11/22/18
 - Completed Search and Replace
@@ -39,7 +39,7 @@ _The following entries all refer to [fCC Intermediate Algorithm Scripting Challe
 - Started Smallest Common Multiple
 
 ### R2D9 - 11/30/18
-- Took a break from Smallest Common Multiple to work on [Bootstrap Challenges](https://learn.freecodecamp.org/front-end-libraries/bootstrap)
+- Took a break from Smallest Common Multiple to work on [fCC Bootstrap Challenges](https://learn.freecodecamp.org/front-end-libraries/bootstrap)
 
 ### R2D10 - 12/01/18
 - Continued Smallest Common Multiple
@@ -56,6 +56,7 @@ _The following entries all refer to [fCC Intermediate Algorithm Scripting Challe
 - Completed Bootstrap Challenges
 - Started and completed Make A Person | Map the Debris
 
+_The following entries all refer to [fCC JavaScript Algorithms and Data Structures Projects](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects), unless otherwise noted_.
 ### R2D14 - 12/05/18
 
 ### R2D15 - 12/06/18
