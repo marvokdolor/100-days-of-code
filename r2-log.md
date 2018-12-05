@@ -1,18 +1,18 @@
 # #100DaysOfCode Log - Round 2 - Marvourneen Dolor
 
-The log of my second consecutive #100DaysOfCode challenge. Started on November 21, 2018.
+The log of my second consecutive #100DaysOfCode challenge. Started on November 22, 2018.
 
 ## Log
 
 _The following entries all refer to [fCC Intermediate Algorithm Scripting Challenges](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting)_.
 
-### R2D1 - 11/21/18
+### R2D1 - 11/22/18
 - Completed Search and Replace
 - Practiced ReGex tests and string manipulation
 - Completed the DNA Pairing
 - Practiced array manipulation
 
-### R2D2 - 11/22/18
+### R2D2 - 11/23/18
 - Completed Missing Letters
 - Practiced string manipulation
 
@@ -46,12 +46,15 @@ _The following entries all refer to [fCC Intermediate Algorithm Scripting Challe
 
 ### R2D11 - 12/02/18
 - Completed Smallest Common Multiple
-- Started and completed Drop it, Steamroller, Binary Agents, Everything Be True
+- Started and completed Drop it | Steamroller | Binary Agents | Everything Be True
 
 ### R2D12 - 12/03/2018
 - Started Arguments Optional
 
 ### R2D13 - 12/04/2018
+- Abandoned Arguments Optional for now
+- Completed Bootstrap Challenges
+- Started and completed Make A Person | Map the Debris
 
 ### R2D14 - 12/05/18
 
