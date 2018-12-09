@@ -64,16 +64,17 @@ _The following entries all refer to [fCC JavaScript Algorithms and Data Structur
 - Started and completed Caesar's Cipher and modified it to allow the user to provide a rotation number
 
 ### R2D15 - 12/06/18
-
+- Started Telephone Number Validator
 
 ### R2D16 - 12/07/18
-
+- Completed [fCC jQuery Challenges](https://learn.freecodecamp.org/front-end-libraries/jquery) 
 
 ### R2D17 - 12/08/18
-
+- Completed Telephone Number Validator
+- Started Cash Register
 
 ### R2D18 - 12/09/18
-
+- Continued Cash Register
 
 ### R2D19 - 12/10/18
 
