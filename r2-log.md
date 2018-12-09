@@ -39,7 +39,7 @@ _The following entries all refer to [freeCodeCamp's Intermediate Algorithm Scrip
 - Started Smallest Common Multiple
 
 ### R2D9 - 11/30/18
-- Took a break from Smallest Common Multiple to work on [fCC Bootstrap Challenges](https://learn.freecodecamp.org/front-end-libraries/bootstrap)
+- Took a break from Smallest Common Multiple to work on [fCC Bootstrap Challenges](https://learn.freecodecamp.org/front-end-libraries/bootstrap).
 
 ### R2D10 - 12/01/18
 - Continued Smallest Common Multiple
@@ -74,7 +74,7 @@ _The following entries all refer to [fCC JavaScript Algorithms and Data Structur
 - Started Cash Register
 
 ### R2D18 - 12/09/18
-- Continued Cash Register
+- Completed Cash Register and earned fCC's [JavaScript Algorithms and Data Structures Certificate](https://www.freecodecamp.org/certification/marvokdolor/javascript-algorithms-and-data-structures)!
 
 ### R2D19 - 12/10/18
 
@@ -95,4 +95,25 @@ _The following entries all refer to [fCC JavaScript Algorithms and Data Structur
 
 
 ### R2D25 - 12/16/18
+
+
+### R2D26 - 12/17/18
+
+
+### R2D27 - 12/18/18
+
+
+### R2D28 - 12/19/18
+
+
+### R2D29 - 12/20/18
+
+
+### R2D30 - 12/21/18
+
+
+### R2D31 - 12/22/18
+
+
+### R2D32 - 12/23/18
 
