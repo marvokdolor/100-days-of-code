@@ -76,6 +76,8 @@ _The following entries all refer to [fCC JavaScript Algorithms and Data Structur
 ### R2D18 - 12/09/18
 - Completed Cash Register and earned fCC's [JavaScript Algorithms and Data Structures Certificate](https://www.freecodecamp.org/certification/marvokdolor/javascript-algorithms-and-data-structures)!
 
+_The following entries all refer to [freeCodeCamp's Front End Libraries Challenges and Projects](https://learn.freecodecamp.org/), unless otherwise noted_.
+
 ### R2D19 - 12/10/18
 
 
