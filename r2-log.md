@@ -79,10 +79,10 @@ _The following entries all refer to [fCC JavaScript Algorithms and Data Structur
 _The following entries all refer to [freeCodeCamp's Front End Libraries Challenges and Projects](https://learn.freecodecamp.org/), unless otherwise noted_.
 
 ### R2D19 - 12/10/18
-
+- Started Sass challenges
 
 ### R2D20 - 12/11/18
-
+- Completed Sass challenges
 
 ### R2D21 - 12/12/18
 
