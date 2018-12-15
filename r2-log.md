@@ -85,16 +85,16 @@ _The following entries all refer to [freeCodeCamp's Front End Libraries Challeng
 - Completed Sass challenges
 
 ### R2D21 - 12/12/18
-
+- Started React challenges
 
 ### R2D22 - 12/13/18
-
+- Continued React challenges
 
 ### R2D23 - 12/14/18
-
+- Continued React challenges
 
 ### R2D24 - 12/15/18
-
+- Continued React challenges
 
 ### R2D25 - 12/16/18
 
