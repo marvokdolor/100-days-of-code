@@ -98,10 +98,10 @@ _The following entries all refer to [freeCodeCamp's Front End Libraries Challeng
 - Worked through the first half of [this React tutorial](https://reactjs.org/tutorial/tutorial.html#developer-tools) and watched this [React video](https://www.youtube.com/watch?v=3HMtarQAt3A).
 
 ### R2D25 - 12/16/18
-
+- Continued React challenges
 
 ### R2D26 - 12/17/18
-
+- Continued React challenges
 
 ### R2D27 - 12/18/18
 
