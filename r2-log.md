@@ -110,10 +110,10 @@ _The following entries all refer to [freeCodeCamp's Front End Libraries Challeng
 - Continued React challenges
 
 ### R2D29 - 12/20/18
-
+- Continued React challenges
 
 ### R2D30 - 12/21/18
-
+- Completed React challenges
 
 ### R2D31 - 12/22/18
 
